@@ -8,10 +8,11 @@
 ![Alternative text][id]
 [id]: url/to/image  "Optional title"
 ```
-Comme vous avez dû le remarquer, les images en Markdown sont très semblables aux liens.  
-La différence est la suivante :
-* les crochets doivent être précédés par un point d'exclamation ;
-* ils peuvent contenir un texte alternatif, qui s'affiche quand l'image ne peut être chargée.
+ENGLISH
+As you might have noticed, images in Markdown are very similar to links.
+The difference is the following:
+* the brackets must be preceded by an exclamation mark
+* they can contain an alternative text, that will appear when the image can't be loaded
 
 ---
 
